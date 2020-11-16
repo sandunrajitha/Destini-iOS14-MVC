@@ -1,4 +1,4 @@
-#Destini-iOS14 MVC
+# Destini-iOS14 MVC
 
 A “choose your own adventure” game similar to the App Store hit “Life Line” app. Implemented using the MVC design pattern.
 The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience
