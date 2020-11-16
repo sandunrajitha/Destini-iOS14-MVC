@@ -5,7 +5,7 @@ The app will tell a story depending on what the user chooses and can be fleshed 
 
 ## Finished app
 
-[app screen record](app-recording.gif)
+![app screen record](app-recording.gif)
 
 
 ## Story Strings
